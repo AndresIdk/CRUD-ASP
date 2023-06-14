@@ -1,0 +1,18 @@
+# Ignorar archivos y carpetas generados por Visual Studio
+.vs/
+bin/
+obj/
+
+# Ignorar carpetas de servicios conectados y dependencias
+Connected Services/
+Dependencias/
+
+# Ignorar archivos de configuración específicos del proyecto
+# Properties/*.json
+
+# Ignorar archivos de configuración sensible
+appsettings.json
+
+# Ignorar archivos de registro y temporales
+*.log
+*.tmp
